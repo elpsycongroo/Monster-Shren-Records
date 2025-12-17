@@ -1,20 +1,7 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+![Banner](https://github.com/user-attachments/assets/f41e849f-ceb0-4580-aa47-1fc6ca660638)
 
-# Run and deploy your AI Studio app
+# Monster-Shren Record Project
 
-This contains everything you need to run your app locally.
+神壬唱片计划
 
-View your app in AI Studio: https://ai.studio/apps/drive/1cWeQhK54Q_UWz99IQD0Y0HaX3WF15qzO
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+一切的开始源自一只鸡腿...
